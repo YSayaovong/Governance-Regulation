@@ -10,7 +10,7 @@ Brief description of the project, its purpose, and key features.
 
 ## Installation
 
-Step-by-step instructions on how to set up and run the project.
+No installs. Everything done on HTB
 
 # Clone the repository
 git clone https://github.com/your-username/your-repo-name.git
@@ -22,13 +22,11 @@ cd your-repo-name
 npm install
 
 # Usage
-Instructions and examples on how to use the project.
-
-# Run the application
+Run the application
 npm start
 
 # Contributing
-Instructions for how others can contribute to the project.
+Add your screenshot
 
 # License
 State the license under which the project is distributed.

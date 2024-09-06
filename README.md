@@ -12,7 +12,6 @@ Brief description of the project, its purpose, and key features.
 
 Step-by-step instructions on how to set up and run the project.
 
-```bash
 # Clone the repository
 git clone https://github.com/your-username/your-repo-name.git
 
@@ -27,3 +26,11 @@ Instructions and examples on how to use the project.
 # Run the application
 npm start
 
+Contributing
+Instructions for how others can contribute to the project.
+
+License
+State the license under which the project is distributed.
+
+
+You can customize the sections as needed!

@@ -21,16 +21,16 @@ cd your-repo-name
 # Install dependencies
 npm install
 
-Usage
+# Usage
 Instructions and examples on how to use the project.
+
 # Run the application
 npm start
 
-Contributing
+# Contributing
 Instructions for how others can contribute to the project.
 
-License
+# License
 State the license under which the project is distributed.
-
 
 You can customize the sections as needed!

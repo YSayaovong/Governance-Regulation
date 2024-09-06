@@ -21,3 +21,9 @@ cd your-repo-name
 
 # Install dependencies
 npm install
+
+Usage
+Instructions and examples on how to use the project.
+# Run the application
+npm start
+
